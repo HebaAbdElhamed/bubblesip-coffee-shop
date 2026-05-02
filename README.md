@@ -1,12 +1,30 @@
 # Next.js
 
-A modern Next.js 15 application built with TypeScript and Tailwind CSS.
+A modern Next.js 15 application built with TypeScript and Tailwind CSSو stylish coffee & bubble tea web experience built with a clean UI/UX approach.
+BubbleSip offers users a smooth and visually engaging interface to explore drinks, products, and promotions in a modern café-inspired environment.
 
-## 🚀 Features
+
+## 🛠 Tech Stack
 
 - **Next.js 15** - Latest version with improved performance and features
 - **React 19** - Latest React version with enhanced capabilities
 - **Tailwind CSS** - Utility-first CSS framework for rapid UI development
+- **TypeScript / JavaScript**
+- **HTML5**
+- **CSS3**
+
+## 🚀 Features
+
+- Modern responsive UI
+- Clean and elegant design
+- Product showcase sections
+- Smooth user experience
+- Interactive layouts
+- Reusable React components
+- Mobile-friendly design
+- Fast and optimized structure
+- Organized folder architecture
+
 
 ## 🛠️ Installation
 
@@ -25,27 +43,7 @@ A modern Next.js 15 application built with TypeScript and Tailwind CSS.
   ```
 3. Open [http://localhost:4028](http://localhost:4028) with your browser to see the result.
 
-## 📁 Project Structure
 
-```
-nextjs/
-├── public/             # Static assets
-├── src/
-│   ├── app/            # App router components
-│   │   ├── layout.tsx  # Root layout component
-│   │   └── page.tsx    # Main page component
-│   ├── components/     # Reusable UI components
-│   ├── styles/         # Global styles and Tailwind configuration
-├── next.config.mjs     # Next.js configuration
-├── package.json        # Project dependencies and scripts
-├── postcss.config.js   # PostCSS configuration
-└── tailwind.config.js  # Tailwind CSS configuration
-
-```
-
-## 🧩 Page Editing
-
-You can start editing the page by modifying `src/app/page.tsx`. The page auto-updates as you edit the file.
 
 ## 🎨 Styling
 
@@ -73,19 +71,17 @@ Build the application for production:
   npm run build
   ```
 
-## 📚 Learn More
+## 👩‍💻 Author
+**Heba Elgohary**
+Frontend Developer passionate about building modern web experiences.
 
-To learn more about Next.js, take a look at the following resources:
+## 📬 Contact Me
+LinkedIn: [(https://www.linkedin.com/in/heba-elgohary-a13074167/)]
+GitHub: [(https://github.com/HebaAbdElhamed)]
+Email: [hebaabdelhamede@gmail.com](mailto:hebaabdelhamede@gmail.com)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial
 
-You can check out the [Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## 🙏 Acknowledgments
-
-- Built with [Rocket.new](https://rocket.new)
-- Powered by Next.js and React
-- Styled with Tailwind CSS
-
-Built with ❤️ on Rocket.new
+If you like this project:
+Give it a ⭐ on GitHub
+Share it with others
+Follow for more projects
