@@ -77,7 +77,9 @@ Frontend Developer passionate about building modern web experiences.
 
 ## 📬 Contact Me
 LinkedIn: [(https://www.linkedin.com/in/heba-elgohary-a13074167/)]
+
 GitHub: [(https://github.com/HebaAbdElhamed)]
+
 Email: [hebaabdelhamede@gmail.com](mailto:hebaabdelhamede@gmail.com)
 
 
