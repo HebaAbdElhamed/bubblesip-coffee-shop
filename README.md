@@ -3,6 +3,9 @@
 A modern Next.js 15 application built with TypeScript and Tailwind CSSو stylish coffee & bubble tea web experience built with a clean UI/UX approach.
 BubbleSip offers users a smooth and visually engaging interface to explore drinks, products, and promotions in a modern café-inspired environment.
 
+## 📸 Preview
+
+![BubbleSip UI](./public/preview.png)
 
 ## 🛠 Tech Stack
 
